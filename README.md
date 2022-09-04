@@ -1,2 +1,3 @@
 # Cpp_055_Math_functions_power
-Exercise #055 based on Miroslaw Zelent's C++ course.
+Exercise #055 based on Miroslaw Zelent's C++ course
+Implementing power function
